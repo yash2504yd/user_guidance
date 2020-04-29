@@ -27,9 +27,9 @@
 <li><a href="#quiz">Quiz</a></li>
 <li><a href="#inforandappearance"> Application Appearnace and info section</a>
   <ul>
-  <li>How to change application language?</li>
-  <li>How to change application appearance?</li>
-  <li>How to quit application?</li>
+  <li><a href="#hoal"> How to change application language?</a></li>
+  <li><a href="#hoaa">How to change application appearance?<a></li>
+  <li><a href="#hqa">How to quit application?</a></li>
   </ul>
   </li>
 
@@ -53,7 +53,7 @@
 
 </article>
 
-<article id="introduction">
+<article  id="introduction">
 
 ## Introduction to Application
 
@@ -131,6 +131,8 @@
 
 <p>this section includes settings related to application's langauge and appearance.
 
+<span id="hoal"></span>
+
 ### How to change application language
 
 <p align="center">
@@ -142,6 +144,8 @@
 1. Click on Settings.
 1. Choose the language from the list.
 1. whole application langauge is changed.
+
+<span id="hoaa"></span>
 
 ### How to change application Appearance
 
@@ -155,6 +159,8 @@
 1. Open right hover menu.
 1. Turn on night mode.
 1. Application all colors will be dark.
+
+<span id="hqa"></span>
 
 ### How to quit application.
 
