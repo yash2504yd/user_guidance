@@ -35,13 +35,10 @@
 
 </ul>
 
-<hr>
-
 <article  id="installation">
 
 ## Installation:
 
-<hr>
 <p align="center">
 <!-- OL -->
    <img src="./images/Install step1.jpg" height="400">
@@ -60,7 +57,6 @@
 
 ## Introduction to Application
 
-<hr>
 <p align="center"> <img src="./images/mainscreen.jpg" height="400"></p>
 <p> After starting main application, you can see above screen. Whole application majorly divied in four sections. </p>
 
@@ -86,7 +82,6 @@
 
 ## Translation
 
-<hr>
  <p>Basically translation help you convert english sentences to any provided languages. Currently software supports german, spanish, french and italian languages. Software also provide vocal pronounciation. </p>
 
 ### TranslationView
@@ -109,7 +104,6 @@
 
 ## Quiz
 
-<hr>
 <p> In Quiz section, it provide simple question answere interface in select language. it also show right answere in green mark. </p>
 
 ### Quiz View
@@ -134,8 +128,6 @@
 <article id="inforandappearance">
 
 ## Application Appearnace and info section
-
-<hr>
 
 <p>this section includes settings related to application's langauge and appearance.
 
