@@ -22,8 +22,8 @@
 
 <ul>
 <li><a href="#installation"> Installation</a></li>
-<li><a href="#introapp"> Introduction to Application</a></li>
-<li>Translation</li>
+<li><a href="#appintro"> Introduction to Application</a></li>
+<li><a href="#translation">Translation</a></li>
 <li>Quiz</li>
 <li>Application Appearnace and info section
   <ul>
@@ -53,7 +53,7 @@
 
 </article>
 
-<article id="introapp">
+<article id="appintro">
 
 ## Introduction to Application
 
@@ -78,13 +78,15 @@
 
 </article>
 
+<article id="translation">
+
 ## Translation
 
  <p>Basically translation help you convert english sentences to any provided languages. Currently software supports german, spanish, french and italian languages. Software also provide vocal pronounciation. </p>
 
 ### TranslationView
 
-<center><img height="400" src="images/translationview.jpg"></center>
+<p align="center"><img height="400" src="images/translationview.jpg"></p>
 
 <p>
   In Translation section, First textbox provide user to enter enlish sentences. in middle of screen, There will spinner which provide options of languages to convert enlish sentence. There is translate button which translate english sentence or word to selected langauge.
@@ -95,6 +97,8 @@
 <p>
   on click of spearker icon, application pronounce output text in selected language.
 </p>
+
+</article>
 
 ## Quiz
 
