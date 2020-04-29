@@ -1,6 +1,10 @@
 <style>
   img{
     position:relative;
+    padding:10px;
+  }
+  article{
+    padding-top:30px;
   }
 </style>
 
@@ -17,25 +21,39 @@
 </p>
 
 <ul>
-<li>Installation</li>
-<li>Introduction to Application</li>
+<li><a href="#installation"> Installation</a></li>
+<li><a href="#introapp"> Introduction to Application</a></li>
 <li>Translation</li>
+<li>Quiz</li>
+<li>Application Appearnace and info section
+  <ul>
+  <li>How to change application language?</li>
+  <li>How to change application appearance?</li>
+  <li>How to quit application?</li>
+  </ul>
+  </li>
 
 </ul>
+
+<article  id="installation">
 
 ## Installation:
 
 <p align="center">
 <!-- OL -->
-   <img src="./images/Install step1.jpg" height="200">
-   <img src="./images/Install step2.jpg" height="200">
-   <img src="./images/Install step3.jpg" height="200">
+   <img src="./images/Install step1.jpg" height="400">
+   <img src="./images/Install step2.jpg" height="400">
+   <img src="./images/Install step3.jpg" height="400">
 </p>
 
 1. Open Google Play Store
 1. Search “jhonr1_language_translator” </br>
 1. Select the app </br>
 1. Click on install </br>
+
+</article>
+
+<article id="introapp">
 
 ## Introduction to Application
 
@@ -57,6 +75,8 @@
 4. Right Hover Menu
 
 - Hover menu includes basic app related information and provide option to change application appearance.
+
+</article>
 
 ## Translation
 
