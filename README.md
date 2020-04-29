@@ -1,4 +1,4 @@
-# user_guidance
+# Language Translator Documentation
 
 <p align="center">
   <img width="400" height="400" src="https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-rubandass/blob/master/Language-translator/app/src/main/res/drawable/translator_logo.png" alt="Translator logo">
@@ -6,7 +6,7 @@
 <p>
   <h1 align="center">
   ANDROID – MOBILE APPLICATION </br>
-  USER MANUAL Test Demo
+  USER MANUAL
   </h1>
 </p>
 
