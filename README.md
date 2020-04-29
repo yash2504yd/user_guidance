@@ -25,10 +25,12 @@
 
 ## Installation:
 
+<p align="center">
 <!-- OL -->
    <img src="./images/Install step1.jpg" height="200">
    <img src="./images/Install step2.jpg" height="200">
    <img src="./images/Install step3.jpg" height="200">
+</p>
 
 1. Open Google Play Store
 1. Search “jhonr1_language_translator” </br>
@@ -80,16 +82,16 @@
 
 ### Quiz View
 
-<center><img src="images/quiz 1.jpg" height="400"/></center>
+<p align="center"><img src="images/quiz 1.jpg" height="400"/></p>
 <p>in Image you can see spinner's option of language for taking quiz.</p>
 <p>There is next button below spinner. it takes you to quiz page which shown in next section.
 
 ### Quiz Sub View
 
-<center><img src="images/quiz 2.jpg" height="400"></center>
+<p align="center"><img src="images/quiz 2.jpg" height="400"></p>
 <p>in this screen, you can see question on top of screen. after that, picture of question is displyed. at bottom, Answeres is provided in terms of radio buttons. Submit button is used to give answere</p>
 
-<center><img src="images/quiz 3.jpg" height="400"></center>
+<p align="center"><img src="images/quiz 3.jpg" height="400"></p>
 
 <p>After giving answere, it shows right answere if and only your answere is wrong otherwise it takes you to next question. </p>
 
@@ -101,10 +103,10 @@
 
 ### How to change application language
 
-<center>
+<p align="center">
 <img src="images/right.jpg" height="400">
 <img src="images/main language.jpg" height="400">
-</center>
+</p>
 
 1. Open right hover menu.
 1. Click on Settings.
@@ -114,10 +116,11 @@
 ### How to change application Appearance
 
 <p>Application provide night mode which visualy dark all the parts</p>
-<center>
+
+<p align="center">
 <img src="images/right.jpg" height="400">
 <img src="images/nightmode.jpg" height="400">
-</center>
+</p>
 
 1. Open right hover menu.
 1. Turn on night mode.
@@ -125,10 +128,10 @@
 
 ### How to quit application.
 
-<center>
+<p align="center">
 <img src="images/right.jpg" height="400">
 <img src="images/quit.jpg" height="400">
-</center>
+</p>
 
 1. Open right hover menu.
 2. Click on exit and you will see confirmation message.
