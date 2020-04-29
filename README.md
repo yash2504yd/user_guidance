@@ -25,7 +25,7 @@
 <li><a href="#introduction"> Introduction to Application</a></li>
 <li><a href="#translation">Translation</a></li>
 <li><a href="#quiz">Quiz</a></li>
-<li><a href="#inforandappearance"> Application Appearnace and info section</a>
+<li><a href="#inforappearance"> Application Appearnace and info section</a>
   <ul>
   <li><a href="#hoal"> How to change application language?</a></li>
   <li><a href="#hoaa">How to change application appearance?<a></li>
@@ -125,7 +125,7 @@
 
 </article>
 
-<article id="inforandappearance">
+<article id="inforappearance">
 
 ## Application Appearnace and info section
 
