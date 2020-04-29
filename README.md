@@ -1,7 +1,7 @@
 # Language Translator Documentation
 
 <p align="center">
-  <img width="200" height="200" src="https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-rubandass/blob/master/Language-translator/app/src/main/res/drawable/translator_logo.png" alt="Translator logo">
+  <img width="200" height="200" src="./images/translator_logo.png" alt="Translator logo">
 </p>
 <p>
   <h1 align="center">
@@ -10,12 +10,14 @@
   </h1>
 </p>
 
-<h3>
-  Installation:
-</h3>
-<p>
-  1. Open Google Play Store  </br>     
-  2. Search “jhonr1_language_translator” </br>
-  3. Select the app and install it </br>
-  <img width="150" height="150" src="https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-rubandass/blob/master/Language-translator/app/src/main/res/drawable/bicycle.png">
-</p>
+# Installation:
+
+<!-- OL -->
+
+1. Open Google Play Store
+1. Search “jhonr1_language_translator” </br>
+   <img src="./images/Install step1.jpg" height="200">
+1. Select the app </br>
+   <img src="./images/Install step2.jpg" height="200">
+1. Click on install </br>
+   <img src="./images/Install step3.jpg" height="200">
