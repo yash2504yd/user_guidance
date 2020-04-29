@@ -1,13 +1,3 @@
-<style>
-  img{
-    position:relative;
-    padding:10px;
-  }
-  article{
-    padding-top:30px;
-  }
-</style>
-
 # Language Translator Documentation
 
 <p align="center">
