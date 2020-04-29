@@ -1,3 +1,9 @@
+<style>
+  img{
+    position:relative;
+  }
+</style>
+
 # Language Translator Documentation
 
 <p align="center">
@@ -20,14 +26,14 @@
 ## Installation:
 
 <!-- OL -->
+   <img src="./images/Install step1.jpg" height="200">
+   <img src="./images/Install step2.jpg" height="200">
+   <img src="./images/Install step3.jpg" height="200">
 
 1. Open Google Play Store
 1. Search “jhonr1_language_translator” </br>
-   <img src="./images/Install step1.jpg" height="200">
 1. Select the app </br>
-   <img src="./images/Install step2.jpg" height="200">
 1. Click on install </br>
-   <img src="./images/Install step3.jpg" height="200">
 
 ## Introduction to Application
 
