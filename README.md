@@ -1,6 +1,6 @@
 # user_guidance
 <p align="center">
-  <img width="400" height="400" src="https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-rubandass/blob/master/Language-translator/app/src/main/res/drawable/translator_logo.jpg" alt="Translator logo">
+  <img width="400" height="400" src="https://github.com/otago-polytechnic-bit-courses/mobile-language-translator-rubandass/blob/master/Language-translator/app/src/main/res/drawable/translator_logo.png" alt="Translator logo">
 </p>
 <p>
   <h1 align="center">
