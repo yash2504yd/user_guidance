@@ -22,10 +22,10 @@
 
 <ul>
 <li><a href="#installation"> Installation</a></li>
-<li><a href="#appintro"> Introduction to Application</a></li>
+<li><a href="#introduction"> Introduction to Application</a></li>
 <li><a href="#translation">Translation</a></li>
-<li>Quiz</li>
-<li>Application Appearnace and info section
+<li><a href="#quiz">Quiz</a></li>
+<li><a href="#inforandappearance"> Application Appearnace and info section</a>
   <ul>
   <li>How to change application language?</li>
   <li>How to change application appearance?</li>
@@ -35,10 +35,13 @@
 
 </ul>
 
+<hr>
+
 <article  id="installation">
 
 ## Installation:
 
+<hr>
 <p align="center">
 <!-- OL -->
    <img src="./images/Install step1.jpg" height="400">
@@ -53,10 +56,11 @@
 
 </article>
 
-<article id="appintro">
+<article id="introduction">
 
 ## Introduction to Application
 
+<hr>
 <p align="center"> <img src="./images/mainscreen.jpg" height="400"></p>
 <p> After starting main application, you can see above screen. Whole application majorly divied in four sections. </p>
 
@@ -82,6 +86,7 @@
 
 ## Translation
 
+<hr>
  <p>Basically translation help you convert english sentences to any provided languages. Currently software supports german, spanish, french and italian languages. Software also provide vocal pronounciation. </p>
 
 ### TranslationView
@@ -100,8 +105,11 @@
 
 </article>
 
+<article id="quiz">
+
 ## Quiz
 
+<hr>
 <p> In Quiz section, it provide simple question answere interface in select language. it also show right answere in green mark. </p>
 
 ### Quiz View
@@ -121,7 +129,13 @@
 
 <p>check above image for more explanation.</p>
 
+</article>
+
+<article id="inforandappearance">
+
 ## Application Appearnace and info section
+
+<hr>
 
 <p>this section includes settings related to application's langauge and appearance.
 
@@ -161,3 +175,5 @@
 2. Click on exit and you will see confirmation message.
 3. Click on yes.
 4. Your application is closed and it take you to homescreen of android.
+
+</article>
