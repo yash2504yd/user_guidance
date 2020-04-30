@@ -145,7 +145,7 @@
 <p>Application provide night mode which visualy dark all the parts</p>
 
 <p align="center">
-<img src="images/rightnew.jpg" height="400">
+<img src="images/RightNew.jpg" height="400">
 <img src="images/nightmodenew.jpg" height="400">
 <img src="images/nightmodemain.jpg" height="400">
 </p>
