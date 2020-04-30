@@ -78,16 +78,21 @@
 
 ### TranslationView
 
-<p align="center"><img height="400" src="images/translation.jpg"></p>
+<p align="center">
+<img height="400" src="images/translation.jpg">
+<img height="400" src="images/translateerror.jpg">
+<img height="400" src="images/pronounceerror.jpg">
+
+</p>
 
 <p>
   In Translation section, First textbox provide user to enter enlish sentences. in middle of screen, There will spinner which provide options of languages to convert enlish sentence. There is translate button which translate english sentence or word to selected langauge.
 </p>
 <p>
-  In Second Textbox, you can see the output of translated sentence or word. below the textbox, there is Spearker icon. 
+  In Second Textbox, you can see the output of translated sentence or word. below the textbox, there is Spearker icon.  if there is no word in textbox, then it will show second image as above with message "You must enter a word to translate".
 </p>
 <p>
-  on click of spearker icon or "Pronounciation Help", application pronounce output text in selected language.
+  on click of spearker icon or "Pronounciation Help", application pronounce output text in selected language. if there is no translation occurred and word is not in seond textbox then it will show third image as above with message "Enter word & translate it first!"
 </p>
 
 </article>
@@ -106,7 +111,7 @@
 
 ### Quiz Sub View
 
-<p align="center"><img src="images/Quiz2.jpg" height="400"> <img src="images/Quiz2.jpg" height="400"> <img src="images/Quiz3.jpg" height="400"> <img src="images/Quiz4.jpg" height="400"> </p>
+<p align="center"><img src="images/Quiz2.jpg" height="400"> <img src="images/Quiz3.jpg" height="400"> <img src="images/Quiz4.jpg" height="400"> </p>
 <p>in this screen, you can see question on top of screen. after that, picture of question is displyed. at bottom, Answeres is provided in terms of radio buttons. Submit button is used to give answere</p>
 
 <p>After giving answere, it shows right answere if and only your answere is wrong otherwise it takes you to next question. </p>
@@ -167,5 +172,22 @@
 2. Click on exit and you will see confirmation message.
 3. Click on yes.
 4. Your application is closed and it take you to homescreen of android.
+
+<span id="hqab"></span>
+
+### About us.
+
+<p align="center">
+<img src="images/rightnew.jpg" height="400">
+<img src="images/aboutus.jpg" height="400">
+</p>
+
+<p>To open about us</p>
+
+1. Open side menu
+2. Click on about us
+3. you could see popup as above image.
+
+<p> When everyou open side menu and click on about us. then it will show above Popup box with basic information.</p>
 
 </article>
