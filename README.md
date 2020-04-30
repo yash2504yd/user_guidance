@@ -37,7 +37,7 @@
 </p>
 
 1. Open Google Play Store
-1. Search “jhonr1_language_translator” or click on following link<a href="https://play.google.com/store/apps/details?id=jhonr1.bit.language_translator">Applink</a> and go to step 4. </br>
+1. Search “jhonr1_language_translator” or click on following link <a href="https://play.google.com/store/apps/details?id=jhonr1.bit.language_translator">Applink</a> and go to step 4. </br>
 1. Select the app </br>
 1. Click on install </br>
 
