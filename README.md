@@ -47,8 +47,10 @@
 
 ## Introduction to Application
 
-<p align="center"> <img src="./images/mainscreen.jpg" height="400"></p>
-<p> After starting main application, you can see above screen. Whole application majorly divied in four sections. </p>
+<p align="center"> <img src="./images/home.jpg" height="400">
+<img src="./images/home2.jpg" height="400">
+</p>
+<p> After starting main application, you can see Home section screen as above. Whenever you touch on Getting Started, it will show usual information about app. Whole application majorly divied in four sections. </p>
 
 1. Home
 
@@ -76,7 +78,7 @@
 
 ### TranslationView
 
-<p align="center"><img height="400" src="images/translationview.jpg"></p>
+<p align="center"><img height="400" src="images/translation.jpg"></p>
 
 <p>
   In Translation section, First textbox provide user to enter enlish sentences. in middle of screen, There will spinner which provide options of languages to convert enlish sentence. There is translate button which translate english sentence or word to selected langauge.
@@ -85,7 +87,7 @@
   In Second Textbox, you can see the output of translated sentence or word. below the textbox, there is Spearker icon. 
 </p>
 <p>
-  on click of spearker icon, application pronounce output text in selected language.
+  on click of spearker icon or "Pronounciation Help", application pronounce output text in selected language.
 </p>
 
 </article>
@@ -98,19 +100,20 @@
 
 ### Quiz View
 
-<p align="center"><img src="images/quiz 1.jpg" height="400"/></p>
+<p align="center"><img src="images/Quiz.jpg" height="400"/></p>
 <p>in Image you can see spinner's option of language for taking quiz.</p>
-<p>There is next button below spinner. it takes you to quiz page which shown in next section.
+<p>There is Start Quiz button below spinner. it takes you to quiz page which shown in next section.
 
 ### Quiz Sub View
 
-<p align="center"><img src="images/quiz 2.jpg" height="400"></p>
+<p align="center"><img src="images/Quiz2.jpg" height="400"> <img src="images/Quiz2.jpg" height="400"> <img src="images/Quiz3.jpg" height="400"> <img src="images/Quiz4.jpg" height="400"> </p>
 <p>in this screen, you can see question on top of screen. after that, picture of question is displyed. at bottom, Answeres is provided in terms of radio buttons. Submit button is used to give answere</p>
-
-<p align="center"><img src="images/quiz 3.jpg" height="400"></p>
 
 <p>After giving answere, it shows right answere if and only your answere is wrong otherwise it takes you to next question. </p>
 
+<p> If you try to skip question without giving answere, it will show you the propmpt message "Select Any one option" so Every answere is necessary.
+
+<p>At the end of quiz, it will show your final score and highest score of quiz.</p>
 <p>check above image for more explanation.</p>
 
 </article>
@@ -126,8 +129,8 @@
 ### How to change application language
 
 <p align="center">
-<img src="images/right.jpg" height="400">
-<img src="images/main language.jpg" height="400">
+<img src="images/rightnew.jpg" height="400">
+<img src="images/languagenew.jpg" height="400">
 </p>
 
 1. Open right hover menu.
@@ -142,8 +145,9 @@
 <p>Application provide night mode which visualy dark all the parts</p>
 
 <p align="center">
-<img src="images/right.jpg" height="400">
-<img src="images/nightmode.jpg" height="400">
+<img src="images/rightnew.jpg" height="400">
+<img src="images/nightmodenew.jpg" height="400">
+<img src="images/nightmodemain.jpg" height="400">
 </p>
 
 1. Open right hover menu.
@@ -155,8 +159,8 @@
 ### How to quit application.
 
 <p align="center">
-<img src="images/right.jpg" height="400">
-<img src="images/quit.jpg" height="400">
+<img src="images/rightnew.jpg" height="400">
+<img src="images/quitnew.jpg" height="400">
 </p>
 
 1. Open right hover menu.
